@@ -10,8 +10,8 @@ import './styles/app.scss';
 
 
 //you can specify which plugins you need 
-// import {TooLtip, Toast, Popover } from 'bootstrap';
+import {TooLtip, Toast, Popover } from 'bootstrap';
 
 
 // start the Stimulus application
-// import './bootstrap';
+import './bootstrap';
